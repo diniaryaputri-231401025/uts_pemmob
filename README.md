@@ -33,6 +33,8 @@ Aplikasi kuis pilihan ganda interaktif berbasis Flutter yang dikembangkan untuk 
 
 ### Screenshot/Video Aplikasi (1.e)
 [MASUKKAN URL ATAU PATH SCREENSHOT/VIDEO APLIKASI ANDA DI SINI]
+![WhatsApp Image 2025-11-06 at 23 12 47_0aa54b3e](https://github.com/user-attachments/assets/68070f68-90ef-429e-ae20-1bbed1663269)
+
 
 ### Link Mockup/Prototype Aplikasi (1.f)
 [MASUKKAN URL LINK FIGMA/PROTOTYPE APLIKASI ANDA DI SINI] 
