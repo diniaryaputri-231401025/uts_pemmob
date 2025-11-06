@@ -32,12 +32,11 @@ Aplikasi kuis pilihan ganda interaktif berbasis Flutter yang dikembangkan untuk 
 | **Ikon UI** | Material Icons | Ikon standar bawaan Flutter SDK (misal: Toggle Tema, Checkmark). |
 
 ### Screenshot/Video Aplikasi (1.e)
-[]
+[https://drive.google.com/drive/folders/1mJfO7g_nUo6d6voSIsUWSn1iXS5RSFFK?usp=drive_link]
 
 
 
 ### Link Mockup/Prototype Aplikasi (1.f)
-[MASUKKAN URL LINK FIGMA/PROTOTYPE APLIKASI ANDA DI SINI] 
 *(Contoh referensi gaya yang dapat digunakan: https://www.figma.com/community/file/1063643793616616017/Quiz-App-UI-Design)*
 
 ---
