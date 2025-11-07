@@ -26,7 +26,7 @@ Aplikasi kuis pilihan ganda interaktif berbasis Flutter yang dikembangkan untuk 
 
 ## D. Dokumentasi dan Credit
 
-### Credit Sumber Aset (1.d)
+### Credit Sumber Aset 
 | Aset | Sumber | Keterangan |
 | :--- | :--- | :--- |
 | **Font Kustom** | Google Fonts | Keluarga Font **Poppins** (Regular dan Bold). |
